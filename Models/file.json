@@ -1,0 +1,64 @@
+[
+  {
+    "id": 11,
+    "uniqueName": "Platform1",
+    "latitude": 1.012,
+    "longitude": 0.1231,
+    "createdAt": "2010-01-12T01:10:24.123",
+    "updatedAt": "2010-01-12T01:10:24.123",
+    "well": [
+      {
+        "id": 1,
+        "platformId": 11,
+        "uniqueName": "Well11",
+        "latitude": 37.06257,
+        "longitude": 18.406885,
+        "createdAt": "2017-11-01T02:41:00",
+        "updatedAt": "2018-08-04T02:16:42"
+      },
+      {
+        "id": 2,
+        "platformId": 11,
+        "uniqueName": "Well12",
+        "latitude": 73.688254,
+        "longitude": 36.81377,
+        "createdAt": "2015-01-16T03:34:07",
+        "updatedAt": "2017-01-23T01:28:37"
+      },
+      {
+        "id": 3,
+        "platformId": 11,
+        "uniqueName": "Well13",
+        "latitude": 109.88473,
+        "longitude": 55.220655,
+        "createdAt": "2016-10-28T09:34:00",
+        "updatedAt": "2018-02-26T18:39:43"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "uniqueName": "Platform2",
+    "latitude": 1.018,
+    "longitude": 0.1284,
+    "createdAt": "2010-01-15T01:14:57.543",
+    "updatedAt": "2010-01-15T01:14:57.543",
+    "well": [
+      {
+        "id": 4,
+        "platformId": 12,
+        "uniqueName": "Well21",
+        "latitude": 145.6595,
+        "longitude": 73.62754,
+        "createdAt": "2018-08-10T06:01:16",
+        "updatedAt": "2018-04-16T12:53:20"
+      },
+      {
+        "id": 5,
+        "platformId": 12,
+        "uniqueName": "Well22",
+        "latitude": 181.01989,
+        "longitude": 92.034426,
+        "createdAt": "2018-11-24T06:12:26",
+        "updatedAt": "2018-08-20T14:59:48"
+      },

@@ -1,0 +1,40 @@
+## Core Build and Cache Outputs (Blocks the locked .vs folder error)
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider / Resharper
+.idea/
+*.sln.DotSettings.user
+
+## OS Generated Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## User-Specific and User Secrets
+*.userprefs
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+## Publish Outputs
+*.publish.htm
+*.azurepubxml
+pub/
+out/
+
+## Test and Coverage Results
+TestResults/
+*.sequenced
+*.coverage
+*.coveragexml
+
+## Package Manager Folders
+.nuget/
+packages/
