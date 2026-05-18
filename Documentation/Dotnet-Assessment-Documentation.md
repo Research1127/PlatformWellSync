@@ -1,4 +1,6 @@
-﻿# PlatformWellSync — Documentation
+﻿# PART 1: TECHNICAL ASSESSMENT (.NET APPLICATION)
+
+## Project Name : PlatformWellSync
 > **AEM Enersol Technical Assessment**
 > GitHub: https://github.com/Research1127/PlatformWellSync
 
@@ -780,10 +782,12 @@ This confirms existing records are updated, not duplicated.
 
 | Task | Time |
 |---|---|
-| Understanding the API via Swagger/Postman | ~1 hour |
-| Project setup and package installation | ~30 minutes |
-| Writing all model and service files | ~1.5 hours |
-| Debugging migration and DB errors | ~1 hour |
-| Testing endpoints and upsert logic | ~30 minutes |
-| Git setup and push to GitHub | ~30 minutes |
-| **Total** | **~5 hours** |
+| Understanding the API via Swagger/Postman | < 1 hour |
+| Project setup and package installation | < 30 minutes |
+| Writing all model and service files | ~ 4 hours |
+| Debugging migration and DB errors | ~ 1 hour |
+| Testing endpoints and upsert logic | ~ 30 minutes |
+| Git setup and push to GitHub | ~ 10 minutes |
+| SQL Assesment | 1 hour |
+| Documentation | 2 hour |
+| **Total** | **~ 10 hours** |
