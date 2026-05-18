@@ -57,7 +57,7 @@ public class ApiService
         _http.DefaultRequestHeaders.Authorization =
             new AuthenticationHeaderValue("Bearer", token);
 
-        var response = await _http.GetAsync($"{_settings.BaseUrl}/PlatformWell/GetPlatformWellActual");
+        var response = await _http.GetAsync($"{_settings.BaseUrl}/PlatformWell/GetPlatformWellDummy");
         response.EnsureSuccessStatusCode();
 
         var json = await response.Content.ReadAsStringAsync();
