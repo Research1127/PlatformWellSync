@@ -43,4 +43,4 @@ from CTE where RowNum = 1
 
 ### Query Result
 
-![Query Result](Images/query_result.png)
+![Query Result](../Images/query_result.png)
